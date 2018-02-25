@@ -307,6 +307,29 @@ ul, li {
 	justify-content: space-between;
 }
 
+/*changePage*/
+.changePage {
+	text-align: center;
+}
+
+.changePage__pageSelect {
+	color: #aaa;
+}
+
+.changePage__pageSelect:hover {
+	top: -1px;
+	color: #424242;
+}
+
+.changePage__pageSelect:active {
+	top: 0;
+	color: #aaa;
+}
+
+.changePage__pageSelect:focus {
+	color: #424242;
+}
+
 
 /* footer elements */
 /*title*/

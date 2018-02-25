@@ -1,9 +1,4 @@
 window.onload = function() {
-	// add dataset to list-item
-	// var area = document.querySelectorAll(".region-container__list .list__area");
-	// for(var i = 0; i < area.length; i++) {
-	// 	area[i].setAttribute("data-num", i);
-	// }
 
 	// 抓取資料庫資料
 	var xhr = new XMLHttpRequest();
